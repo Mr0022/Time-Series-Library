@@ -1,0 +1,3 @@
+# Extra dependency for tuning/tune_optuna.py (on top of the repo's requirements.txt).
+# Optuna provides the TPE (Bayesian) sampler used for hyper-parameter search.
+optuna>=3.4
